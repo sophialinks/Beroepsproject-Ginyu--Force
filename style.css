@@ -1,0 +1,177 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  list-style: none;
+  text-decoration: none;
+}
+body {
+background: linear-gradient(#8b59a8, #9198e5, #8b59a8);
+}
+
+/*header styling :begin*/
+.header table {
+  margin-left: 75px;
+}
+dropdown-anker:hover {
+  border: solid 5px white;
+  margin-bottom: 10px;
+}
+.header {
+  height: 100px;
+  width: 100%;
+  display: block;
+  background: #101010;
+}
+.dropdown {
+  color: white;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  width: 250px;
+  box-shadow: 0px 8px 16px 0px rgba(255,255,255,0.2);
+  padding: 12px 16px;
+  z-index: -10;
+  float: left;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+  width: 250px;
+  background: #101010;
+  text-align: center;
+  z-index: 10;
+}
+.Logo-container {
+  float: left;
+}
+.Logo-container img {
+  width: 100px;
+  height: 100px;
+}
+td {
+  margin-left: 200px;
+}
+#turtle {
+  margin-right: 50px;
+}
+.search-bar {
+  border-radius: 25px;
+  border: none;
+  width: 750px;
+  height: 25px;
+}
+.search-button {
+  height: 50px;
+  width: 100px;
+  border-radius: 25px;
+  border: none;
+  background: linear-gradient(to right, #b6a9a9, #473d3d, #b6a9a9);
+  margin-left: 55px;
+}
+form {
+  margin-bottom: 30px;
+}
+/*header styling :end*/
+
+/*contact container*/
+.col-md-12 {
+margin: 20px;
+text-align: center;
+position: sticky;
+width: 60%;
+}
+.map-overlay {
+margin: 20px;
+text-align: center;
+position: sticky;
+width: 60%;
+}
+.container h1.white, .company-heading h1 {
+font-family: "proxima-nova", sans-serif;
+font-weight: 100;
+text-transform: capitalize;
+font-size: 65px;
+margin-bottom: 20px
+}
+.bambi {
+  margin-top: 20px;
+}
+.control-group {
+margin: 20px;
+text-align: center;
+position: sticky;
+width: 60%;
+}
+.form-group col-md-12 text-center. {
+margin: 20px;
+text-align: center;
+width: 60%;
+}
+.label {
+width:600px;
+text-align:center;
+padding-right:10px;
+}
+.submit {
+margin: 20px;
+text-align: center;
+width: 60%;
+}
+.input, label {
+ float: left;
+   width:200px;
+    text-align:left;
+    padding-right:20px;
+}
+.container p {
+    font-style: normal !important;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 0px;
+}
+.logo-container {
+    height: 100%;
+    display: block;
+    float: left;
+} 
+.logo-container img {
+  width: 125px;
+  height: 125px;
+  padding-top: 0px;
+}
+ .logo-container h1 {
+    color: white;
+}
+ p {
+    color: white;
+}
+.row {
+  margin-top: 20px;
+}
+.col-md-5 contact-right-info{
+margin: 20px;
+text-align: center;
+position: sticky;
+width: 60%;
+}
+.contact-right-info {
+    text-align: center;
+    width:500px;
+    padding-right:20px;
+}​​​​​​
+.bedrijfslogo2 {​​​​​​
+ width: 125px;
+  height: 125px;
+  padding-top: 0px;
+}​​​​​​
+.inner-container2 {​​​​​​
+    width: 800px;
+    height: 100%;
+    display: block;
+    margin-left: 40%;
+}​​​​​
+.inner-container2 :first-child {​​​​​​
+    padding-top: 10px;
+}​​​​​​
